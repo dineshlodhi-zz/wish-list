@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_guidance">
+    <help_guidance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_route/>
+        <auto_launch_order/>
+        <checklist/>
+        <context/>
+        <description/>
+        <eh_content/>
+        <name>NEW TOUR</name>
+        <order/>
+        <roles/>
+        <route_params/>
+        <snc_created>false</snc_created>
+        <status>draft</status>
+        <sys_class_name>help_guidance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-16 08:12:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e6776215367201089abddeeff7b12a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NEW TOUR</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="sn_wish_list">3faaa9915323201089abddeeff7b1261</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3faaa9915323201089abddeeff7b1261</sys_scope>
+        <sys_update_name>help_guidance_0e6776215367201089abddeeff7b12a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-16 08:12:48</sys_updated_on>
+        <topic_id/>
+        <type>modal</type>
+        <version>all</version>
+    </help_guidance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0e6776215367201089abddeeff7b12a7"/>
+</record_update>
